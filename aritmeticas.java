@@ -1,5 +1,5 @@
-package aritmeticas;
-public class Main {
+
+public class aritmeticas {
     public static void main(String[] args){
         int teste = 10 * 3; 
         int teste2 = 10 / 5; 

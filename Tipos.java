@@ -1,6 +1,6 @@
-package tipos;
 
-public class Main {
+
+public class Tipos {
     public static void main(String[] args){
         // tipo nome = valor
 
