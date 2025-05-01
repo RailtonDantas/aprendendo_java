@@ -44,4 +44,8 @@ public class Produto {
         System.out.print("\nDados Atualizados: ");
         this.mostraProduto();
     }
+
+    public String toString(){
+        return "Teste " + nomeProduto +  " " + "Preco " + precoProduto;
+    }
 }

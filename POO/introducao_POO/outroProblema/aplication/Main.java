@@ -16,7 +16,6 @@ public class Main {
         novoProduto.adicionaProduto(sc);
         novoProduto.retiraProduto(sc);
         novoProduto.dadosAtualizados();
-
         sc.close();
     }    
 }
