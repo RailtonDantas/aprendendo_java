@@ -1,3 +1,4 @@
+package parte_basica;
 
 public class aritmeticas {
     public static void main(String[] args){

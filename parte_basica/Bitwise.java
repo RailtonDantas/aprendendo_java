@@ -1,3 +1,4 @@
+package parte_basica;
 public class Bitwise {
     public static void main(String[] args){
         // & -> é o and

@@ -1,3 +1,4 @@
+package parte_basica;
 import java.util.Scanner;
 import java.util.Locale;
 

@@ -1,3 +1,4 @@
+package parte_basica;
 
 
 public class Tipos {

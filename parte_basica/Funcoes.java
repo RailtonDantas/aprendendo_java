@@ -1,3 +1,4 @@
+package parte_basica;
 import java.util.Scanner;
 public class Funcoes{
     public static void main(String[] args){
