@@ -1,0 +1,23 @@
+Membros estáticos:
+São membros de uma classe que não dependem de uma instancia, por exemplo.
+eu não preciso instanciar um objeto dessa classe para poder usar, basta usar pela propria classe:
+
+Exemplo:
+se eu tenho a classe "Product", e eu tenho um metodo q calcula o desconto baseado no preco, antes de poder calcular, eu necessito
+de uma instancia dessa classe, por exemplo:
+
+
+        Product TV = new Product();
+        TV.calcularDesconto();
+
+isso é um método não estatico, pois eu dependo da instancia do objeto TV
+
+Mas, por exemplo. suponha q eu tenho um método que lista quantos produtos eu tenho, ele não pode ser um metodo ligado a 1 só produto, ele tem que estar ligado a classe, logo. ele seria estatico, pois eu nao preciso instanciar um novo objeto.
+
+Exemplo:
+
+        int quantidadeProdutos = Product.listaProdutos();
+
+
+
+        
