@@ -1,0 +1,16 @@
+
+
+modificador Private:
+o private deixa que o membro da classe seja acessado somente dentro da própria classe, ou seja, caso eu importe
+ela para outro arquivo, eu não posso acessar este membro
+
+
+deixar sem modificador:
+quando não se coloca o modificador, vc tem que aquele membro da classe só pode ser usado dentro do mesmo pacote
+ou seja, caso uma outra classe importe ela para outro pacote, este membro não poderá ser usado
+
+modificador protected:
+o membro pode ser acessado dentro do mesmo pacote, e em subclasses que estejam em outros pacotes
+
+modificador public:
+o membro pode ser acessado por outras classes, mesmo em pacotes diferentes

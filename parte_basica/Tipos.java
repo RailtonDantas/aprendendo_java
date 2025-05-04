@@ -34,6 +34,10 @@ public class Tipos {
         boolean gj = false;
 
 
+        int[] valores = new int[20];
+        valores[0] = 19;
+
+
 
         
 
