@@ -1,7 +1,6 @@
 package POO.introducao_POO.problema.aplication;
 import POO.introducao_POO.problema.entities.Triangle;
 
-import java.lang.reflect.Type;
 import java.util.Locale;
 import java.util.Scanner;
 

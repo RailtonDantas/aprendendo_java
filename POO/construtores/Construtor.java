@@ -29,7 +29,6 @@ public class Construtor {
         produto.adicionaProduto(sc.nextInt());
         System.out.println(produto);
         
-        
         System.out.print("Quantas unidades quer retirar? ");
         produto.retiraProduto(sc.nextInt());
         System.out.println(produto);

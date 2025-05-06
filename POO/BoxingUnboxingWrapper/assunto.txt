@@ -1,0 +1,6 @@
+Boxing:
+é o prcesso de conversão de um tipo valor para um tipo referencia compatível
+
+
+Unboxing:
+é o processo contrário, ou seja, é vc transformar uma variável do tipo referencia para o tipo valor
